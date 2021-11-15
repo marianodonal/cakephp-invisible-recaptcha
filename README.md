@@ -5,12 +5,12 @@
 
 ## Requirements
 
-* CakePHP 3.4.0+
+* CakePHP 4.0.0+
 
 ## Installation
 
 ```
-composer require mosaxiv/cakephp-invisible-recaptcha
+composer require marianodonal/cakephp-invisible-recaptcha
 ```
 
 [obtain a invisible reCAPTCHA API key.](https://www.google.com/recaptcha/admin#list)
